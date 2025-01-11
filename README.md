@@ -2,9 +2,9 @@
 Repository for Module 11 Homework.
 
 **Questions/Answers in Homework**
-- Question 1 (Best k using orig. scaled df): What is the best value for k? **4**
-- Question 2 (Optimize clusters with PCA): What is the total explained variance of the three principal components? **89.5%**
-- Question 3 (Best k using PCA): What is the best value for k? **4**
+- Question 1 (Best k using orig. scaled df): What is the best value for k? **4.**
+- Question 2 (Optimize clusters with PCA): What is the total explained variance of the three principal components? **89.5%.**
+- Question 3 (Best k using PCA): What is the best value for k? **4.**
 - Question 4 (Best k using PCA): Does it differ from the best k value found using the original data? **No. It is the same.**
 - Question 5:
 
